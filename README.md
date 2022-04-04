@@ -1,5 +1,5 @@
 # DS-Course
-A case study put together by instructor Cameron Jackson. Note that this is an advanced version of this project,
+A case study put together by instructor Cameron Jackson. Note that this is an advanced version of this project.
 
 ## 📃 Outline of the project
 
