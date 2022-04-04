@@ -17,6 +17,8 @@ To summarize how messy the above data is, the different datasets that we were me
 4. Including or excluding certain territories without any noticeable pattern
 5. Missing data in certain columns
 
+We will be using the pandas python library to manage all of our data needs throughout our project so I recommend becoming familiar with the library. At this point, you should start looking for different pieces of data that you can use to answer the question you started with. You should start to map out correlations between different pieces of information you have gathered to see if it is relevant to the thesis that you created at the beginning. You can use pandas to show a correlation map between different columns of the data to help start this conversation.
+
 ## 📠 Choosing your ML model / Training the model
 
 ## 🥇Comparing different models
