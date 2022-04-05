@@ -27,3 +27,7 @@ We will be using the pandas python library to manage all of our data needs throu
 
 ## Extension: Deploying a DS Project to the Web
 This is not covered by this walkthrough.
+
+## Source of Data:
+https://www.kaggle.com/datasets/majyhain/height-of-male-and-female-by-country-2022
+https://www.kaggle.com/datasets/fernandol/countries-of-the-world
