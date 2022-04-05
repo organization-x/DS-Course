@@ -33,6 +33,3 @@ Here is a list of possible ML models that you can look to a guidance as you star
 7. [Naive Bayes](https://scikit-learn.org/stable/modules/naive_bayes.html)
 
 To read up how to use a model, select the walkthrough notebook that corresponds to your model. 
-
-## Extension: Deploying a DS Project to the Web
-This is not covered by this walkthrough.
