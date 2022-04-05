@@ -1,6 +1,7 @@
 # DS-Course
 A case study put together by instructor Cameron Jackson. Note that this is an advanced version of this project.
-### NOTE: This a very advanced version of the project and that it is acceptable and expected to do a much simpler version of the project.
+### ![image](https://user-images.githubusercontent.com/71373541/161672563-9dda993e-19e4-4cff-97e3-9b9067f70998.png)
+NOTE: This a very advanced version of the project and that it is acceptable and expected to do a much simpler version of the project.
 
 ## 📃 Outline of the project
 
