@@ -1,6 +1,6 @@
 # DS-Course
 A case study put together by instructor Cameron Jackson. Note that this is an advanced version of this project.
-### NOTE: This a very advanced version of the project and that it is acceptable and expected to do a much simpler version of the project.
+### NOTE: This a very advanced example of the project in which, it is acceptable and expected for students to do a much simpler version of the project.
 
 ## 📃 Outline of the project
 
