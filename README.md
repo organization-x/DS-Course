@@ -1,4 +1,4 @@
-# DS-Course
+# AI Camp Data Science Advanced Walkthrough
 A case study put together by instructor Cameron Jackson. Note that this is an advanced version of this project that specifically uses a messy and hard-to-use dataset to give a thorough review of several of the potential work required while cleaning, exploring, visualizing, and performing machine learning during this project. It is not required for instructors to use this as a resource, but we do recommend reading through and running these notebooks to understand the story told by this data.
 
 #### NOTE: This a very advanced example of the project in which, it is acceptable and expected for students and instructors to do a much simpler version of the project.
